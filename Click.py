@@ -20,7 +20,7 @@ def programStart():
     menu = "Main"
     print(prettyPrinter("menu_page", menu))
     print(prettyPrinter("current_settings", 'n/a'))
-    print(bcolors.FAIL + "For issues and support, go to https://github.com/GetParanoid/AutoClicker/issues" + bcolors.ENDC)
+    print(bcolors.FAIL + "For issues and support, go to https://github.com/GetParanoid/gxpClicker/issues" + bcolors.ENDC)
     userInput = input("\n[ 1 ] - Clicker \n[ 2 ] - Settings\n\nINPUT: ")
     os.system('cls')
     if userInput == "1":
