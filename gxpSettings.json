@@ -1,0 +1,20 @@
+{
+  "settings": [
+    {
+      "name": "click.minDelay",
+      "value": "1.7"
+    },
+    {
+      "name": "click.maxDelay",
+      "value": "3.354"
+    },
+    {
+      "name": "preset.alch.click.minDelay",
+      "value": "1.6"
+    },
+    {
+      "name": "preset.alch.click.maxDelay",
+      "value": "2.2"
+    }
+  ]
+}
