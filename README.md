@@ -5,7 +5,7 @@
 
 It's currently a rotten mess. 
 
-It works, but I wouldn't recommend using it. Major overhaul incoming soon
+It works, but I wouldn't recommend using it. 
 ###### Requirements:
 
 1. Python3
